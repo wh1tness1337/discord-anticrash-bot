@@ -18,3 +18,22 @@
 - Blocks deletion/creating channels
 
 ## Getting started
+### Prerequisites
+* [Git](https://git-scm.com/downloads)
+* [The Go Programming Language](https://www.python.org/)
+### Installing Libraries
+
+
+### Installation
+To install this project using Git, follow these steps:
+
+- Clone the Repository:
+
+```bash
+git clone https://github.com/meLdozyk/discord-anticrash-bot
+```
+- Navigate to the Project Directory:
+
+```bash
+cd discord-anticrash-bot
+```
