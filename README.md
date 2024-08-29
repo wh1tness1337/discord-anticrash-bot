@@ -16,3 +16,5 @@
 - Does not allow to ban / kick participants
 - Does not allow you to assign a role with administrator rights
 - Blocks deletion/creating channels
+
+## Getting started
