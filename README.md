@@ -21,8 +21,6 @@
 ### Prerequisites
 * [Git](https://git-scm.com/downloads)
 * [The Go Programming Language](https://www.python.org/)
-### Installing Libraries
-
 
 ### Installation
 To install this project using Git, follow these steps:
@@ -37,3 +35,11 @@ git clone https://github.com/meLdozyk/discord-anticrash-bot
 ```bash
 cd discord-anticrash-bot
 ```
+
+- Installing Libraries:
+```bash
+pip install -r requirements.txt
+```
+### Used libraries
+* [discord.py](https://pypi.org/project/discord.py/)
+* [difflib](https://docs.python.org/3/library/difflib.html)
