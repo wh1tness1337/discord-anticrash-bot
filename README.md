@@ -9,3 +9,10 @@
 
 
 ### Features:
+
+- Prevents sending links
+- Protects against spam and raid
+- Blocks the creation/deletion/modification of roles
+- Does not allow to ban / kick participants
+- Does not allow you to assign a role with administrator rights
+- Blocks deletion/creating channels
