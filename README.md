@@ -4,3 +4,4 @@
 <a href="https://github.com/meLdozyk/discord-anticrash-bot/issues"><img src="https://img.shields.io/github/issues/meLdozyk/discord-anticrash-bot.svg?style=for-the-badge&color=b143e3" alt="Issues"></a>
 <a href="https://github.com/meLdozyk/discord-anticrash-bot/blob/main/LICENSE"><img src="https://img.shields.io/github/license/meLdozyk/discord-anticrash-bot.svg?style=for-the-badge&color=b143e3" alt="MIT License"></a>
 </div>
+dffdgfdsg
